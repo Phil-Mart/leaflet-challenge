@@ -10,3 +10,6 @@ While this code works, it will also be updated soon to include a geological tile
 
 
 <img width="953" alt="Screen Shot 2023-05-27 at 10 16 29 AM" src="https://github.com/Phil-Mart/leaflet-earthquakes/assets/120279988/8ed58ab6-dafd-44e2-a7a5-7f0bf12ec39f">
+
+
+To view this dynamic dashboard, simply open the .html on your local browser.
