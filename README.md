@@ -1,2 +1,3 @@
-# leaflet-challenge
-Module 15- GeoJson &amp; Leaflet
+# leaflet-earthquakes
+
+GeoJson &amp; Leaflet
