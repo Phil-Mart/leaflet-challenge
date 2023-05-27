@@ -6,7 +6,7 @@ From there, the .js file plots all the earthquakes on the leaflet map object by 
 
 Each object displays its metadata when hovered over, including its coordinates, magnitude, and depth. 
 
-Included is also a legend key to indicate the color of depth values 
+Included is also a legend key to indicate the color of depth values on the map. 
 
 While this code works, it will also be updated soon to include a geological tile and tectonic borders.
 
